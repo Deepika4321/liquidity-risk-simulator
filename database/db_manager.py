@@ -1,9 +1,10 @@
 import duckdb
 import pandas as pd
-
+import os
 
 DATABASE_PATH = "data/liquidity_risk.duckdb"
 
+os.makedirs("data", exist_ok=True)
 
 def create_connection():
     return duckdb.connect(DATABASE_PATH)
