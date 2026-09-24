@@ -1,6 +1,6 @@
 
-@"
-# 💧 Real-Time Financial Liquidity Risk & Stress-Testing Simulator
+
+# Real-Time Financial Liquidity Risk & Stress-Testing Simulator
 
 > **A quantitative liquidity risk decision platform that simulates thousands of stressed financial futures, measures Liquidity Coverage Ratio (LCR), identifies risk drivers, discovers critical stress thresholds, and evaluates recovery actions.**
 
