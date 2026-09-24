@@ -4,3 +4,4 @@ pandas
 numpy
 duckdb
 plotly
+joblib
