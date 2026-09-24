@@ -5,3 +5,4 @@ numpy
 duckdb
 plotly
 joblib
+scikit-learn
